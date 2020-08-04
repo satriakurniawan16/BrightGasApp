@@ -11,6 +11,7 @@ public class GlobalString {
         public static final String PROMO = "PROMO";
     }
 
+    //
     public static class IntentEstra {
         public static final String INTENT_EXTRA_CODE = "code";
         public static final String INTENT_EXTRA_SCRATCH= "scratchOff";
